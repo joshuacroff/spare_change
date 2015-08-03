@@ -15,7 +15,6 @@ class UsersController < ApplicationController
     @total_contributions = current_user.total_contributions
     @current_month_total = current_user.current_month_total
     @previous_month_total = current_user.previous_month_total
-
   end
 
   def update
