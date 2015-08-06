@@ -79,4 +79,3 @@ Dashboard on Mobile:
 ![Navigation Mobile](/images/nav_mobile_dashboard.jpeg)
 ![Transactions Mobile](/images/transactions_mobile.jpeg)
 ![Donations Chart Mobile](/images/cummulative_donations_mobile.jpeg)
-
