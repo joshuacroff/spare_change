@@ -63,3 +63,20 @@ To sign in using test credentials which will call the Plaid and Stripe API's you
 
 * Piara Sandhu
   * `piarasandhu108@gmail.com`
+
+Homepage:
+
+![Homepage](/images/homepage.jpeg)
+
+Dashboard:
+
+![Dashboard](/images/dashboard.jpeg)
+
+Charity Selector:
+![Charity Selector](/images/charity_selector.jpeg)
+
+Dashboard on Mobile:
+![Navigation Mobile](/images/nav_mobile_dashboard.jpeg)
+![Transactions Mobile](/images/transactions_mobile.jpeg)
+![Donations Chart Mobile](/images/cummulative_donations_mobile.jpeg)
+
