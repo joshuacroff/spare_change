@@ -78,6 +78,6 @@ Charity Selector:
 
 Dashboard on Mobile:
 
-![Navigation Mobile](/images/nav_mobile_dashboard.jpeg =360x640)
-![Transactions Mobile](/images/transactions_mobile.jpeg =360x640)
-![Donations Chart Mobile](/images/cummulative_donations_mobile.jpeg =360x640)
+<img src="/images/nav_mobile_dashboard.jpeg" alt="Navigation Mobile" height="640" width="360">
+<img src="/images/transactions_mobile.jpeg" alt="Transactions Mobile" height="640" width="360">
+<img src="/images/cummulative_donations_mobile.jpeg" alt="Donations Chart Mobile" height="640" width="360">
