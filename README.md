@@ -66,18 +66,18 @@ To sign in using test credentials which will call the Plaid and Stripe API's you
 
 Homepage:
 
-![Homepage](../images/homepage.jpeg)
+![Homepage](/images/homepage.jpeg)
 
 Dashboard:
 
-![Dashboard](../images/dashboard.jpeg)
+![Dashboard](/images/dashboard.jpeg)
 
 Charity Selector:
 
-![Charity Selector](../images/charity_selector.jpeg)
+![Charity Selector](/images/charity_selector.jpeg)
 
 Dashboard on Mobile:
 
-![Navigation Mobile](../images/nav_mobile_dashboard.jpeg =360x640)
-![Transactions Mobile](../images/transactions_mobile.jpeg =360x640)
-![Donations Chart Mobile](../images/cummulative_donations_mobile.jpeg =360x640)
+![Navigation Mobile](/images/nav_mobile_dashboard.jpeg =360x640)
+![Transactions Mobile](/images/transactions_mobile.jpeg =360x640)
+![Donations Chart Mobile](/images/cummulative_donations_mobile.jpeg =360x640)
